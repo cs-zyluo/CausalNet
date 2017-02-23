@@ -2,7 +2,7 @@
 
 ## CausalNet
 
-CausalNet consists of large amount of extracted causal relationships from Bing web pages.
+CausalNet consists of a large amount of causal relationships extracted from Bing web pages.
 
 Each causal relationship is a triple as following:
 CAUSE\_WORD[\t]EFFECT\_WORD[\t]FREQUENCY
@@ -10,7 +10,7 @@ CAUSE\_WORD[\t]EFFECT\_WORD[\t]FREQUENCY
 You can download CausalNet from 
 <http://adapt.seiee.sjtu.edu.cn/causal/>
 
-If you have any questions, feel to contact me at <jessherlock@sjtu.edu.cn> .
+If you have any questions, feel free to contact me at <jessherlock@sjtu.edu.cn> .
 
 ## Publications
 
