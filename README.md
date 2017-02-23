@@ -7,7 +7,8 @@ CausalNet consists of large amount of extracted causal relationships from Bing w
 Each causal relationship is a triple as following:
 CAUSE\_WORD[\t]EFFECT\_WORD[\t]FREQUENCY
 
-You can download CausalNet from []
+You can download CausalNet from 
+<http://adapt.seiee.sjtu.edu.cn/causal/>
 
 ## Publications
 
@@ -23,9 +24,9 @@ This repository is an implementation of the approach proposed in
 
 Follow these steps to get started:
 
-1. Download CausalNet from here ,then `tar -xjf cs.tar.bz2`.
+1. Download CausalNet from <http://adapt.seiee.sjtu.edu.cn/causal/> ,then `tar -xjf cs.tar.bz2`.
 
-2. Download the KR-COPA.jar from here.
+2. Download the KR-COPA.jar from <http://adapt.seiee.sjtu.edu.cn/causal/tools/KR-COPA.jar> .
 
 3. Create the Log folder: `mkdir -p Log`
 
