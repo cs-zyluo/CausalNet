@@ -14,7 +14,7 @@ If you have any questions, feel free to contact me at <jessherlock@sjtu.edu.cn> 
 
 ## Publications
 
-Please cite the following paper if you are using CausalNet. Thanks!
+Please cite the following paper if you are using CausalNet and the code. Thanks!
 
 *   Zhiyi Luo, Yuchen Sha, Kenny Q. Zhu, Seung-won Hwang, Zhongyuan Wang, "**Commonsense Causal Reasonging between Short Texts**", 
 Proc. of 15th Int. Conf. on Principles of Knowledge Representation and Reasonging (KR'2016), Cape Town, South Africa.
