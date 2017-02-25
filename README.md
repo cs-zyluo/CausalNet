@@ -10,7 +10,7 @@ CAUSE\_WORD[\t]EFFECT\_WORD[\t]FREQUENCY
 You can download CausalNet from 
 <http://adapt.seiee.sjtu.edu.cn/causal/>
 
-If you have any questions, feel free to contact me at <jessherlock@sjtu.edu.cn> .
+If you have any questions, feel free to contact Zhiyi Luo at <jessherlock@sjtu.edu.cn> . -- Zhiyi Luo, Feb 24th, 2017.
 
 ## Publications
 
