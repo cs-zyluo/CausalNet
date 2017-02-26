@@ -1,6 +1,6 @@
 # Commonsense Causal Reasoning between Short Texts
 
-## CausalNet
+## 1. CausalNet
 
 CausalNet consists of a large amount of causal relationships extracted from Bing web pages.
 
@@ -12,14 +12,14 @@ You can download CausalNet from
 
 If you have any questions, feel free to contact Zhiyi Luo at <jessherlock@sjtu.edu.cn> . -- Zhiyi Luo, Feb 24th, 2017.
 
-## Publications
+## 2. Publications
 
 Please cite the following paper if you are using CausalNet and the code. Thanks!
 
 *   Zhiyi Luo, Yuchen Sha, Kenny Q. Zhu, Seung-won Hwang, Zhongyuan Wang, "**Commonsense Causal Reasonging between Short Texts**", 
 Proc. of 15th Int. Conf. on Principles of Knowledge Representation and Reasonging (KR'2016), Cape Town, South Africa.
 
-## Quick Start
+## 3. Quick Start
 
 This repository is an implementation of the approach proposed in 
 "**Commonsense Causal Reasonging between Short Texts**", KR'2016.
