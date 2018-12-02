@@ -16,13 +16,13 @@ If you have any questions, feel free to contact Zhiyi Luo at <jessherlock@sjtu.e
 
 Please cite the following paper if you are using CausalNet and the code. Thanks!
 
-*   Zhiyi Luo, Yuchen Sha, Kenny Q. Zhu, Seung-won Hwang, Zhongyuan Wang, "**Commonsense Causal Reasonging between Short Texts**", 
+*   Zhiyi Luo, Yuchen Sha, Kenny Q. Zhu, Seung-won Hwang, Zhongyuan Wang, "**Commonsense Causal Reasoning between Short Texts**", 
 Proc. of 15th Int. Conf. on Principles of Knowledge Representation and Reasonging (KR'2016), Cape Town, South Africa.
 
 ## 3. Quick Start
 
 This repository is an implementation of the approach proposed in 
-"**Commonsense Causal Reasonging between Short Texts**", KR'2016.
+"**Commonsense Causal Reasoning between Short Texts**", KR'2016.
 
 Follow these steps to get started:
 
